@@ -6,7 +6,7 @@
         "build": "",
         "start": "node scripts/start.js"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Personal Trainer website made with bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -16,10 +16,6 @@
         "template"
     ],
     "homepage": "https://anita-kuha.netlify.app",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
     "repository": {
         "type": "git",
